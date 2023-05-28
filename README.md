@@ -2,7 +2,7 @@
 Mini juego con funcionamiento tipo Snake hecho con JavaScript utilizando eventos.
 El coche se mueve por el escenario mediante las flechas de dirección del teclado y si se sale de los márgenes, GAME OVER!
 
-Deploy: https://joanmagam.github.io/Juego-Snake-car/
+Deploy: https://joanmagam.github.io/Juego-Snake-Car/
 
 Vista previa:
 
