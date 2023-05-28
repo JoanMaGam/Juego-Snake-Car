@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.escenario {
+    background-color: #ccc;
+    width: 600px;
+    height: 600px;
+    margin: 0;
+    /* si le pongo 0 auto, cuando agrando la pantalla el escenario se centra y los margenes para el game over no son los mimos y no funciona bien el juego. */
+    border: 2px solid black;
+}
+
+figure {
+    /* aqui elegimos la propiedad que queremos transicionar. */
+    transition: margin 0.2s;
+    width: 150px;
+}
